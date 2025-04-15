@@ -103,6 +103,10 @@ print(artigo5["artigo"])
 
 O repositório inclui o script `converter_constituicao.py` que foi utilizado para converter o texto original da Constituição para o formato JSON estruturado. Este script pode ser útil para atualizar o arquivo quando houver emendas constitucionais.
 
+## Fonte Original
+
+https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988
+
 ## 📄 Licença
 
 Este projeto é disponibilizado sob a licença [MIT](https://opensource.org/licenses/MIT). O texto da Constituição Federal é um documento público.
